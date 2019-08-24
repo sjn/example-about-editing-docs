@@ -1,10 +1,10 @@
 # Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-Integer rutrum massa in velit varius tincidunt. Nulla curabitur nec urna at
-felis ultricies egestas. Integer viverra ex ut lacinia dapibus. Aenean
-luctus vulputate tempus. Pellentesque sed augue sed ante laoreet tristique
-sit amet ut velit.  Duis dignissim lacus nulla, ut Imperdiet neque commodo
-nec. Donec non sapien suscipit, feugiat eros in, iaculis est.
+Integer rutrum massa in velit varius tincidunt. Curabitur nec urna at felis
+ultricies egestas. Integer viverra ex ut lacinia dapibus. Aenean luctus
+vulputate tempus. Pellentesque sed augue sed ante laoreet tristique sit amet
+ut velit.  Duis dignissim lacus nulla, ut Imperdiet neque commodo nec. Donec
+non sapien suscipit, feugiat eros in, iaculis est.
 
 Sed dictum lectus ut venenatis tempor. Praesent mattis justo et quam
 pulvinar scelerisque. Maecenas egestas ex justo, at malesuada lacus accumsan
@@ -22,10 +22,9 @@ tempus lectus.  Vivamus vehicula lorem a laoreet suscipit. Quisque accumsan
 tincidunt lacus a pellentesque. Proin vitae metus non ante finibus
 convallis.  Suspendisse convallis ante tincidunt velit bibendum blandit.
 
-Nulla curabitur semper mauris in lacus varius, vel dignissim nibh varius.
-Nam faucibus metus lorem, non elementum dui consequat quis. Donec sit amet
-metus pulvinar, molestie sem eu, varius massa. Aenean ullamcorper suscipit
-sem in euismod. Phasellus massa felis, pellentesque viverra blandit id,
-blandit at leo.  Nullam lacinia elementum tortor et efficitur. Donec
-dignissim risus arcu.  Aliquam ex magna, molestie quis pellentesque id,
-convallis in eros. 
+Curabitur semper mauris in lacus varius, vel dignissim nibh varius.  Nam
+faucibus metus lorem, non elementum dui consequat quis. Donec sit amet metus
+pulvinar, molestie sem eu, varius massa. Aenean ullamcorper suscipit sem in
+euismod. Phasellus massa felis, pellentesque viverra blandit id, blandit at
+leo.  Nullam lacinia elementum tortor et efficitur. Donec dignissim risus
+arcu.  Aliquam ex magna, molestie quis pellentesque id, convallis in eros. 

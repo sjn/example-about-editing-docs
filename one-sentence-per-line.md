@@ -1,7 +1,7 @@
 # Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 Integer rutrum massa in velit varius tincidunt.
-Nulla curabitur nec urna at felis ultricies egestas.
+Curabitur nec urna at felis ultricies egestas.
 Integer viverra ex ut lacinia dapibus.
 Aenean luctus vulputate tempus.
 Pellentesque sed augue sed ante laoreet tristique sit amet ut velit.
@@ -29,7 +29,7 @@ Quisque accumsan tincidunt lacus a pellentesque.
 Proin vitae metus non ante finibus convallis.
 Suspendisse convallis ante tincidunt velit bibendum blandit.
 
-Nulla curabitur semper mauris in lacus varius, vel dignissim nibh varius.
+Curabitur semper mauris in lacus varius, vel dignissim nibh varius.
 Nam faucibus metus lorem, non elementum dui consequat quis.
 Donec sit amet metus pulvinar, molestie sem eu, varius massa.
 Aenean ullamcorper suscipit sem in euismod.

@@ -8,4 +8,4 @@
 
     git log -p --color-diff 6da0429..HEAD
 
-    https://github.com/sjn/example-about-editing-docs/commit/b9ac70
+[Github diff](https://github.com/sjn/example-about-editing-docs/commit/b9ac70). Check out also the parent commits (follow link).
